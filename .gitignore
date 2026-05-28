@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# OCR outputs (large intermediate files)
+2023_ocr_*.txt
+2023_raw*.txt
+2023_pages/
+ocr_batch.js
+ocr_enhanced.js
+ocr_key_pages.js
+ocr_tesseract_batch.js
+ocr_tesseract_v2.js
+find_answers.js
+
+# Trained data (large binary files)
+chi_sim.traineddata
+eng.traineddata
+
+# Source data (intermediate)
+docx_parsed/
+raw_texts/
+
+# Package lock
+package-lock.json
