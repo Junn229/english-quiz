@@ -1,5 +1,5 @@
 // build_quiz.js - 从 historical_questions.json 生成答题页面
-// 排除2023年，输出 self-contained HTML
+// 输出 self-contained HTML (含2023年)
 
 const fs = require('fs');
 const path = require('path');
@@ -689,7 +689,7 @@ function buildSectionTabs() {
       count = sec.passages.reduce((s, p) => s + (p.questions||[]).length + (p.blanks||[]).length, 0);
     }
     const cls = key === sectionKey ? ' active' : '';
-    return '<div class="section-tab' + cls + '" data-section="' + key + '" onclick="switchSection(\'' + key + '\')">'
+    return '<div class="section-tab' + cls + '" data-section="' + key + '" onclick="switchSection(this.dataset.section)">'
       + '<span class="icon">' + (SECTION_ICONS[key] || '📋') + '</span>'
       + '<span>' + (SECTION_NAMES[key] || key) + '</span>'
       + '<span class="count">' + count + '</span>'
@@ -864,7 +864,7 @@ function renderCloze(area) {
     let text = passage.passage;
     if (passage.blanks) {
       passage.blanks.forEach((b, i) => {
-        text = text.replace(new RegExp('\\\\b' + b.id + '\\\\b', 'g'), '<span class="cloze-blank">(' + b.id + ')</span>');
+        text = text.replace(new RegExp('\\(' + b.id + '\\)', 'g'), '<span class="cloze-blank">(' + b.id + ')</span>');
       });
     }
     passageHTML = '<div class="cloze-passage">' + text + '</div>';

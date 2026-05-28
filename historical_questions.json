@@ -8362,5 +8362,933 @@
         "passages": []
       }
     }
+  },
+  {
+    "title": "2023年中石油职称英语考试真题",
+    "year": 2023,
+    "source": "2023职称英语真题.pdf (答案: 红色标记自动识别)",
+    "sections": {
+      "vocabulary": {
+        "title": "Vocabulary",
+        "questions": [
+          {
+            "id": 1,
+            "question": "It is possible to predict how much energy and water a building will consume, how much will be needed",
+            "options": {
+              "A": "matter",
+              "B": "things",
+              "C": "material",
+              "D": "substance"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 2,
+            "question": "They found that the positive thinkers sold 37 percent more insurance than did the thinkers.",
+            "options": {
+              "A": "negative",
+              "B": "positive",
+              "C": "active",
+              "D": "passive"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 3,
+            "question": "In labs around the world, bad bugs are undergoing the ultimate rehabilitation, being from life-threatening viruses and bacteria into lifesaving therapeutic agents.",
+            "options": {
+              "A": "translated",
+              "B": "transported C. transformed D. transmitted",
+              "C": "",
+              "D": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 4,
+            "question": "The fresh air is sometimes humid from the _ raintal. of this area.",
+            "options": {
+              "A": "numerous",
+              "B": "abundant",
+              "C": "plenty",
+              "D": "substantive"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 5,
+            "question": "We know that many animals the deep seas at pressures of 15, 000 pounds per square inch.",
+            "options": {
+              "A": "live on",
+              "B": "live in",
+              "C": "live through D. live up to",
+              "D": ""
+            },
+            "answer": "A"
+          },
+          {
+            "id": 6,
+            "question": "Speakers and writers of the Germanic languages for a great deal of the world's output in everything from economics to literature to military to science and technology.",
+            "options": {
+              "A": "On account",
+              "B": "In honor",
+              "C": "In place",
+              "D": "On behalf"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 7,
+            "question": "The Atlantic hydrographic chart is being _ continuously; even as we speak submarines are charting the Arctic basin under the ice. ()",
+            "options": {
+              "A": "rehearsed",
+              "B": "revised",
+              "C": "renewed",
+              "D": "retiled"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 8,
+            "question": "The companies that are finding ways to hang on to their older workers from an intangible commodity: wisdom.",
+            "options": {
+              "A": "obtain",
+              "B": "earn",
+              "C": "develop",
+              "D": "benefit"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 9,
+            "question": "When all the present oilfields are_, its is possible that the North Pole may become the scene of oil activity. (46)",
+            "options": {
+              "A": "exhibited B. exhausted C. exploited",
+              "D": "exposed",
+              "B": "",
+              "C": ""
+            },
+            "answer": "B"
+          },
+          {
+            "id": 10,
+            "question": "Managers need to monitor inflation trends so they can make good",
+            "options": {
+              "A": "decisive",
+              "B": "decisions",
+              "C": "decide",
+              "D": "decided"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 11,
+            "question": "Whereas outside the USA, Coke tends to be a young person's drink, inside the USA anybody of any age can drink it on any_ _ without embarrassment. (17i*)",
+            "options": {
+              "A": "choice",
+              "B": "occasion",
+              "C": "occupation",
+              "D": "occurrence"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 12,
+            "question": "The waiters will refill your coffee cup several times for no extra_(17)",
+            "options": {
+              "A": "expand",
+              "B": "offer",
+              "C": "price",
+              "D": "charge"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 13,
+            "question": "A professional degree will an average annual income of about twice that of college graduates. (45i*)",
+            "options": {
+              "A": "feel like",
+              "B": "result in",
+              "C": "hold on",
+              "D": "keep to"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 14,
+            "question": "That caves of Altamira, which were _ in northern Spain, contain interesting paintings by early cave dwellers.",
+            "options": {
+              "A": "found",
+              "B": "invented C. discovered",
+              "D": "created",
+              "C": ""
+            },
+            "answer": "A"
+          },
+          {
+            "id": 15,
+            "question": "A green building is _ to have reduced its environmental impact by 60% compared with an equivalent conventional building.(60i*)",
+            "options": {
+              "A": "established B. estimated",
+              "C": "computed",
+              "D": "counter",
+              "B": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 16,
+            "question": "If you do not know the subject, you will not understand what is said or written, even if English is your mother what is said or written",
+            "options": {
+              "A": "speaking B. language",
+              "C": "saying",
+              "D": "tongue",
+              "B": ""
+            },
+            "answer": "A"
+          },
+          {
+            "id": 17,
+            "question": "You will find the figure of a conqueror or a general on all the highest _in the great cities of the world.(29i)",
+            "options": {
+              "A": "pillows",
+              "B": "pillars",
+              "C": "columns",
+              "D": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 18,
+            "question": "America's early _ were attracted by the fertile land and varied climates it offered for farming.",
+            "options": {
+              "A": "settlers",
+              "B": "inherents",
+              "C": "residents",
+              "D": "lodgers"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 19,
+            "question": "The U.S., generally acknowledged to be a step Britain on biofuel, has an estimated 600 stations that offer E85 (a fuel made of 85 percent bioethanol).",
+            "options": {
+              "A": "in excess of B. in advance",
+              "C": "ahead of D. in front of",
+              "B": "",
+              "D": ""
+            },
+            "answer": "A"
+          },
+          {
+            "id": 20,
+            "question": "The cost of self-education has fallen with the multitude of sources of knowledge and information on CD-ROMs and the Internet.",
+            "options": {
+              "A": "preferable",
+              "B": "ready",
+              "C": "available",
+              "D": "considerable II. Grammatical Structure are four choices marked A, B, C and D. Choose the ONE answer that best completes the sentence and mark your answer on the Answer Sheet."
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      "grammar": {
+        "title": "Grammatical Structure",
+        "questions": [
+          {
+            "id": 21,
+            "question": "I could see from his face that he bad news.",
+            "options": {
+              "A": "had received",
+              "B": "receives",
+              "C": "received",
+              "D": "has received"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 22,
+            "question": "--Are you going to the football game? --No, the tickets are for me.",
+            "options": {
+              "A": "terrible expensive B. so much expensive",
+              "C": "far too expensive",
+              "D": "highly expensive",
+              "B": ""
+            },
+            "answer": "B"
+          },
+          {
+            "id": 23,
+            "question": "The residents, _ had been damaged by the flood, were given help by the Red Cross.",
+            "options": {
+              "A": "all of whose homes",
+              "B": "all of their homes",
+              "C": "all their homes",
+              "D": "all that homes"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 24,
+            "question": "In some countries is called \"equality\" does not really mean equal rights for all people.",
+            "options": {
+              "A": "which",
+              "B": "what",
+              "C": "that",
+              "D": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 25,
+            "question": "The modem long pencil can draw a line 35 miles in length.",
+            "options": {
+              "A": "7-inched",
+              "B": "7-inch",
+              "C": "7-inchs",
+              "D": "7-inches 1 2023 He 42 iN 18 EX. BE/2"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 26,
+            "question": "We regret _ you that the computers you ordered are out of stock.",
+            "options": {
+              "A": "informing",
+              "B": "to inform",
+              "C": "having informed",
+              "D": "m have informed"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 27,
+            "question": "Not until the game had begun _at the sports ground.",
+            "options": {
+              "A": "had he arrived",
+              "B": "he have arrived",
+              "C": "he should arrive",
+              "D": "did he arrived LAАт1 1612200"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 28,
+            "question": "The medical record shows that it was the drag, not the disease, several years ago.",
+            "options": {
+              "A": "that",
+              "B": "finally C. the effects of which",
+              "D": "the effect of which killed him him",
+              "C": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 29,
+            "question": "Sound travels air.",
+            "options": {
+              "A": "through water faster and",
+              "B": "where it is faster through water than through",
+              "C": "faster through water than through",
+              "D": "faster than through water and"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 30,
+            "question": "The news heard everywhere.",
+            "options": {
+              "A": "had",
+              "B": "have been",
+              "C": "was",
+              "D": "are going to be"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 31,
+            "question": "IfI _ you, I would go to look for him.",
+            "options": {
+              "A": "was",
+              "B": "were",
+              "C": "would be",
+              "D": "am"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 32,
+            "question": "I hope all the precautions against air pollution, government, will be seriously considered here.",
+            "options": {
+              "A": "while B. since",
+              "C": "as",
+              "D": "after suggested by the local",
+              "B": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 33,
+            "question": "All flights take the train.",
+            "options": {
+              "A": "had been canceled",
+              "C": "were canceled because of the snowstorm, many passengers could do nothing but",
+              "B": "have been canceled",
+              "D": "having been canceled"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 34,
+            "question": "What's the matter? I smell something.",
+            "options": {
+              "A": "burn B. burns C. burning",
+              "D": "being burned",
+              "B": "",
+              "C": ""
+            },
+            "answer": "A"
+          },
+          {
+            "id": 35,
+            "question": "It's very nice you to help me.",
+            "options": {
+              "A": "for B. in",
+              "C": "like",
+              "D": "of",
+              "B": ""
+            },
+            "answer": "C"
+          },
+          {
+            "id": 36,
+            "question": "My grandfather has decided to make me go back to college immediately, study my lessons carefully, and",
+            "options": {
+              "A": "attain my master's degree",
+              "B": "a master's degree must be attained",
+              "C": "must attain my master's degree",
+              "D": "to my master's degree I have to attain [M01J4*"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 37,
+            "question": "The habit of _regular hours is of extreme importance to successful learning.",
+            "options": {
+              "A": "finish what I did",
+              "B": "finished what I was doing",
+              "C": "would finish what I was doing Lift T]",
+              "D": "finished what I did III. Reading Comprehension questions or unfinished statements. For each of them there are four choices marked A, B, C and D. You should decide on the best choice and mark your answer on the Answer Sheet. Washington D.C. was the first city in history to be created solely for the purpose of governance. Following the Revolution, members of Congress had hotly debated the question of a permanent home for themselves and for departments, such as the Treasury, th e Patent Office, and so on, which even the sketchiest of central government would feel obliged to establish. In 1790, largely in order to put an end to"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 38,
+            "question": "I wish to have a word with you,",
+            "options": {
+              "B": "wouldn't I C. may",
+              "D": "shouldn't I",
+              "A": "must I",
+              "C": ""
+            },
+            "answer": "B"
+          },
+          {
+            "id": 39,
+            "question": "— right now, she would get there on Sunday.",
+            "options": {
+              "A": "Would she leave",
+              "B": "If she leave",
+              "C": "Were she to leave",
+              "D": "If she had left"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 40,
+            "question": "I wish I longer this morning, but I had to get up and come to class. A. could have slept",
+            "options": {
+              "B": "slept",
+              "C": "might have slept",
+              "D": "have slept III. Reading Comprehension questions or unfinished statements. For each of them there are four choices marked A, B, C and D. You should decide on the best choice and mark your answer on the Answer Sheet.",
+              "A": ""
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Reading Comprehension",
+        "questions": [
+          {
+            "id": 41,
+            "question": "According to the article practically all animals have some sense of",
+            "options": {
+              "A": "direction",
+              "B": "hearing",
+              "C": "vibration",
+              "D": "both B and C"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 42,
+            "question": "In a large part of the federal district was_",
+            "options": {
+              "A": "seashore",
+              "B": "village squares",
+              "C": "wilderness",
+              "D": "a flourishing port"
+            },
+            "answer": "D"
+          },
+          {
+            "id": 43,
+            "question": "It can be inferred from the passage that the item \"Foggy Bottom\" in the second paragraph refers to a section of Washington, D.C. that_",
+            "options": {
+              "A": "has the lowest population in the district",
+              "B": "used to be the site of the national weather station",
+              "C": "used to be mostly swampland",
+              "D": "lies at the bottom of Mount Vernon"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 44,
+            "question": "Which of the following conclusions about the federal district is supported by the passage?",
+            "options": {
+              "A": "George Washington's choice pleased almost everyone",
+              "B": "Mount Vernon was not chosen because it was too close to the river",
+              "C": "Congress was unable to agree on a location",
+              "D": "Congress did not believe that a home for the federal government was"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 45,
+            "question": "From this piece we learn that",
+            "options": {
+              "A": "there is a difference between heating and listening",
+              "B": "listening requires little skill",
+              "C": "deafness is much more common than most people suppose",
+              "D": "it is easier to listen alone than in a group"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 46,
+            "question": "What does Ms. Answers suggest Mr. Daniels do?",
+            "options": {
+              "A": "Establish a budget",
+              "B": "Speak with his boss",
+              "C": "Look at train fares",
+              "D": "Consult a guide book"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 47,
+            "question": "Because thought is faster than speech",
+            "options": {
+              "A": "we know what the speaker will say",
+              "B": "we have time to formulate arguments",
+              "C": "we should avoid letting our minds wander aimlessly ahead",
+              "D": "it is best to have a speaker who talks very fast"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 48,
+            "question": "Listening is often difficult when",
+            "options": {
+              "A": "the speaker argues against your pet ideas",
+              "B": "the speaker's voice is poor",
+              "C": "you do not watch the speaker",
+              "D": "the room is poorly ventilated Antarctica is a very large area of the earth's surface, but--until recent years--was the least studied. More knowledge of it is important for all mankind."
+            },
+            "answer": "A"
+          },
+          {
+            "id": 49,
+            "question": "Who will be in charge of the new hydrogen energy station7",
+            "options": {
+              "A": "Oredler Energy Systems",
+              "B": "Ostrum GE",
+              "C": "The GREAT Program",
+              "D": "The City of Stockholm"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 50,
+            "question": "How much hydrogen will the new station produce each day?",
+            "options": {
+              "A": "40kg",
+              "B": "120kg",
+              "C": "350bar",
+              "D": "5, 000psi"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 51,
+            "question": "As a spot where radar antennae might be effective, Antarctic is important because",
+            "options": {
+              "A": "there is plenty of fuel to make the elecuicity needed to operate radar",
+              "B": "in the cold, clear air, metal would not rust",
+              "C": "a scanning station at the South Pole could cover the whole southern hemisphere",
+              "D": "the cold clear air would help radar see clearly"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 52,
+            "question": "To a scientist the main reason for exploring the Antarctic is",
+            "options": {
+              "A": "the fact that we know little about it",
+              "B": "the fact that it has many unusual features",
+              "C": "the benefits to mankind",
+              "D": "the opportunity to study the weather Ryerson Machine Tool Guarantee This guarantee covers all Ryerson industrial tools. Dates of Coverage: All Ryerson industrial tools are guaranteed for 5 years from the date of receipt at the customer's factory or industrial facility. Type of Coverage: This guarantee covers all major tool failures clearly attributable to tool design or construction, and not ordinary wear and tear. This"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 53,
+            "question": "According to the passage, U.S. leadership in public relations is being threatened because of",
+            "options": {
+              "A": "an unparalleled increase in the number of public relations companies",
+              "B": "increased efforts of other countries in public relations",
+              "C": "shrinking cultural differences and new communications technologies",
+              "D": "the decreasing number of multinational corporations in the U.S."
+            },
+            "answer": "B"
+          },
+          {
+            "id": 54,
+            "question": "The word \"provincial\" (Line 2, Para. 3) most probably means _",
+            "options": {
+              "A": "limited in outlook",
+              "B": "like people from the provinces",
+              "C": "rigid in thinking",
+              "D": "interested in world financial affairs"
+            },
+            "answer": "C"
+          },
+          {
+            "id": 55,
+            "question": "We learn from the third paragraph that employees in the American PR industry",
+            "options": {
+              "A": "speak at least one foreign language fluently",
+              "B": "are not as sophisticated as their European counterparts",
+              "C": "are ignorant about world geography",
+              "D": "enjoy reading a great variety of English business publications"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 56,
+            "question": "What lesson might the PR industry take from Ted Turner of CNN?",
+            "options": {
+              "A": "American PR companies should be more internationally-minded.",
+              "B": "The American PR industry should develop global communication technologies.",
+              "C": "People working in PR should be more fluent in foreign language.",
+              "D": "People involved in PR should avoid using the word \"foreign\" On the night of August 17, 1959, at about 20 minutes before midnight, the ground in the vicinity of Yellowstone National Park began shaking violently. At the time there was a rumbling sound, something like a huge truck would make. Both the heaving of the ground and the noise were very frightening but lasted not quite 45 seconds. This earthquake near Yellowstone Park was just one of nearly a million that happen every year all over the world. And as bad as this quake was, many have been worse. Earthquake experts say that the Yellowstone quake of 1959 was about as bad as the one which hit San Francisco in 1906. But the San Francisco quake caused more damage because it struck in a place where there were so many people living. In San Francisco 700 persons lost their lives. An earthquake in Japan in 1923 took 160, 000 lives. In China in 1920 an earthquake took 200, 000 lives. It is easy to understand why earthquakes are so feared. What causes these terrible shakes of the very ground on which we live? To answer that question we must first understand some things about the earth itself. Forty miles deep in the earth is the edge of the outer crust of the earth, and there it is so hot that instead of hard rock there is material much like the hot lava that a volcano erupts. It is the earth's 40-mile deep crust with which we are concerned when we seek the cause of earthquakes. The earth's crust is formed of many different layers of rocks. The layers of rocks are not laid evenly, as a bricklayer would build a wall. Instead, the earth's crust is made of rock layers that are often uneven and not perfectly balanced. Because of the great weight pressing down on them, these layers tend to fold downward at weak spots, and this finally causes an actual break in the crust. When this break occurs, or when the sides of an old break slip, the earth quakes, or shakes, while the crust is settling into a new position. Sometime these faults are very small, and we then feel only a little tremor. The tremor may even be so light that only the most delicate machine will record it. Most earthquakes are of this weak kind. Sometimes a break in the earth's crust comes about, which starts such a landslide as that which occurred in Madison Canyon. It"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 57,
+            "question": "We may conclude, in regard to the author's development as a writer, father",
+            "options": {
+              "A": "opposed his becoming a writer",
+              "B": "made an important contribution",
+              "C": "insisted that he choose writing as a career",
+              "D": "insisted that he read Hamlet in order to learn how to be a writer"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 58,
+            "question": "The San Francisco quake was worse than the one in Yellowstone because",
+            "options": {
+              "A": "it lasted longer",
+              "B": "it struck where so many people lived",
+              "C": "there were mountains at Yellowstone",
+              "D": "there was a river at Yellowstone"
+            },
+            "answer": "A"
+          },
+          {
+            "id": 59,
+            "question": "The earth' s crust is made of",
+            "options": {
+              "A": "sand",
+              "B": "mountains",
+              "C": "many layer of rock",
+              "D": "lava"
+            },
+            "answer": "B"
+          },
+          {
+            "id": 60,
+            "question": "Some times aftershocks follow an earthquake for as long as",
+            "options": {
+              "B": "months",
+              "C": "years",
+              "A": "secured landfill is located on clay ground, and the pits are lined with plastic and nylon sheets to 66 the hazardous wastes in the pit. One kind of hazardous wastes, radioactive waste, involves a special disposal problem. Radioactive waste is created by industries and nuclear power plants 67 use radioactive materials. Radioactive materials 68 off energy as their atoms change. This energy is invisible, but very powerful. It can harm 69 tissues in plants and animals. Radioactive waste can remain hazardous for over 100 years. They must be stored in containers that can hold them without leakage for at least 70 amount of time.",
+              "D": "centuries four choices marked A, B, C and D. You should choose the ONE that best fits into the passage. Then mark your answer on the Answer Sheet. Land pollution involves many kinds of wastes. For many years, all wastes were dumped 61 sanitary (T#K) landfills. Sanitary landfills are large pits where garbage is buried under layers of dirt. When hazardous wastes are put in these landfills, toxic (fji) substances can seep into the groundwater and enter the food chain. Hazardous wastes are those kinds of wastes that are 62 or dangerous to the environment. They can be poisonous, corrosive (tV), flammable, explosive, or radioactive (X). They can pollute the air or 63 fires or explosions. These wastes can also cause 64 problems for humans and animals. For these reasons, it is important to dispose 65 hazardous wastes in secured landfills where they cannot leak."
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      "cloze": {
+        "title": "Section B: Cloze (完形填空)",
+        "passages": [
+          {
+            "passage": "In every cultivated language there are two great classes of words which, taken together, comprise the whole vocabulary. First, there are those words (61) which we become acquainted in daily conversation, which we learn, that is to say, from the (62) of our own family and from our familiar associates, and which we should know and use (63) we could not read or write. They concern the common things of life, and are the stock-in-trade of all who (64) the language. Such words may be called \"popular,\" since they belong to the people (65) and are not the exclusive possession of a limited class.\n\nOn the other hand, our language includes a multitude of words which are comparatively (66) used in ordinary conversation. Their meanings are known to every educated person, but there is little (67) to use them at home or in the market-place. Our first acquaintance with them comes not from our mother's lips or from the talk of our school-mates, (68) from books that we read, lectures that we hear, or the more formal conversation of highly educated speakers who are discussing some particular (69) in a style appropriately elevated above the habitual level of everyday life. Such words are called \"learned,\" and the (70) between them and the \"popular\" words is of great importance to a right understanding of linguistic process.",
+            "blanks": [
+              {
+                "id": 61,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "at"
+                  },
+                  {
+                    "label": "B",
+                    "text": "through"
+                  },
+                  {
+                    "label": "C",
+                    "text": "with"
+                  },
+                  {
+                    "label": "D",
+                    "text": "by"
+                  }
+                ],
+                "answer": "B"
+              },
+              {
+                "id": 62,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "relatives"
+                  },
+                  {
+                    "label": "B",
+                    "text": "members"
+                  },
+                  {
+                    "label": "C",
+                    "text": "mates"
+                  },
+                  {
+                    "label": "D",
+                    "text": "fellows"
+                  }
+                ],
+                "answer": "B"
+              },
+              {
+                "id": 63,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "in spite of"
+                  },
+                  {
+                    "label": "B",
+                    "text": "even"
+                  },
+                  {
+                    "label": "C",
+                    "text": "despite"
+                  },
+                  {
+                    "label": "D",
+                    "text": "even if"
+                  }
+                ],
+                "answer": "A"
+              },
+              {
+                "id": 64,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "say"
+                  },
+                  {
+                    "label": "B",
+                    "text": "practice"
+                  },
+                  {
+                    "label": "C",
+                    "text": "apply"
+                  },
+                  {
+                    "label": "D",
+                    "text": "speak"
+                  }
+                ],
+                "answer": "B"
+              },
+              {
+                "id": 65,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "in public"
+                  },
+                  {
+                    "label": "B",
+                    "text": "at most"
+                  },
+                  {
+                    "label": "C",
+                    "text": "at best"
+                  },
+                  {
+                    "label": "D",
+                    "text": "at large"
+                  }
+                ],
+                "answer": "A"
+              },
+              {
+                "id": 66,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "frequently"
+                  },
+                  {
+                    "label": "B",
+                    "text": "seldom"
+                  },
+                  {
+                    "label": "C",
+                    "text": "irregularly"
+                  },
+                  {
+                    "label": "D",
+                    "text": "much"
+                  }
+                ],
+                "answer": "D"
+              },
+              {
+                "id": 67,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "occasion"
+                  },
+                  {
+                    "label": "B",
+                    "text": "prospect"
+                  },
+                  {
+                    "label": "C",
+                    "text": "way"
+                  },
+                  {
+                    "label": "D",
+                    "text": "reason"
+                  }
+                ],
+                "answer": "A"
+              },
+              {
+                "id": 68,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "besides"
+                  },
+                  {
+                    "label": "B",
+                    "text": "but"
+                  },
+                  {
+                    "label": "C",
+                    "text": "and"
+                  },
+                  {
+                    "label": "D",
+                    "text": "or"
+                  }
+                ],
+                "answer": "C"
+              },
+              {
+                "id": 69,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "theme"
+                  },
+                  {
+                    "label": "B",
+                    "text": "problem"
+                  },
+                  {
+                    "label": "C",
+                    "text": "topic"
+                  },
+                  {
+                    "label": "D",
+                    "text": "question"
+                  }
+                ],
+                "answer": "B"
+              },
+              {
+                "id": 70,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "comparison"
+                  },
+                  {
+                    "label": "B",
+                    "text": "contrast"
+                  },
+                  {
+                    "label": "C",
+                    "text": "distinction"
+                  },
+                  {
+                    "label": "D",
+                    "text": "similarity"
+                  }
+                ],
+                "answer": "A"
+              }
+            ]
+          }
+        ]
+      },
+      "translation": {
+        "title": "Translation",
+        "questions": [
+          {
+            "id": 71,
+            "question": "[Question 71 - OCR text unavailable]",
+            "options": {
+              "A": "",
+              "B": "",
+              "C": "",
+              "D": ""
+            },
+            "answer": "B"
+          }
+        ]
+      }
+    }
   }
 ]
