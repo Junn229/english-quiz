@@ -608,7 +608,7 @@ function buildSectionTabs() {
       count = sec.passages.reduce((s, p) => s + (p.questions||[]).length + (p.blanks||[]).length, 0);
     }
     const cls = key === sectionKey ? ' active' : '';
-    return '<div class="section-tab' + cls + '" data-section="' + key + '" onclick="switchSection('' + key + '')">'
+    return '<div class="section-tab' + cls + '" data-section="' + key + '" onclick="switchSection(this.dataset.section)">'
       + '<span class="icon">' + (SECTION_ICONS[key] || '📋') + '</span>'
       + '<span>' + (SECTION_NAMES[key] || key) + '</span>'
       + '<span class="count">' + count + '</span>'
